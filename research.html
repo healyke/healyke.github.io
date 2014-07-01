@@ -1,0 +1,108 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Kevin Healy</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="index.html">Home</a></li>
+          <li class="fork"><a href="research.html">Research</a></li>
+          <li class="fork"><a href="publications.html">Publications</a></li>
+          <li class="fork"><a href="cv.html">CV</a></li>
+          <li class="fork"><a href="outreach.html">Outreach</a></li>
+          <li class="fork"><a href="media.html">Media</a></li>
+        </nav>
+      </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <p><img src="images/sidewayszebra2.jpg" height="200"/> 
+            <span> <h1>Research</h1> </span>
+          </p>
+          <hr>
+        </div>
+        <h2>
+           Predator prey interactions across scales
+        </h2>
+        <p></p>
+        <p> Species interactions are are one of the most basic components of biology. In our biodiverse world all species must make a living be either outcompeting, predating or parasitising other species. These interactions in turn make up the astondingly complex ecosytems that make up our world.
+        </p>
+       
+        <p>Despite the obvious importnace of understanding these interactions the incredible range and complexity underpinning these make general predictions hard to pin down. However within ecology approaches have emerged which allow such general predictions based on fundemental aspects of biology such as body size, energy use through metabolic rate and envirnmental complexity.
+          I am interested in using a variaty of approaches to better understand these general patterns with a focus on how intraspecific interactions relate with body size.
+        </p>
+
+        <!-- Add link here-->
+  <!-- remember that this closes dowb at the bottem
+        <h3>
+          <a name="Including fossils into trees" class="anchor" href="#includefossils"><span class="octicon octicon-link"></span></a>Including fossils in trees
+        </h3>
+        <p>Fossils can be added to phylogenetic trees either as nodes or as tips.
+          Different research fields usually focus on one of these two options:
+        </p>
+        <DL>
+          <DD>-Neontologists traditionally use fossils as nodes for calibrating molecular clocks (probabilistic approach).
+          <DD>-Paleontologists traditionally use fossils as tips in cladograms (parsimony approach).
+        </DL>
+        <p>I am interested in combining these traditionally separate approaches by adding fossils to phylogenies as tips using probabilistic techniques such as Maximum Likelihood or Bayesian methods that allow you to use all the available data (Total Evidence Method) and to deal with uncertainty.</p>
+
+        <h3>
+          <a name="Collecting data" class="anchor" href="#collectingdata"><span class="octicon octicon-link"></span></a>Collecting data
+        </h3>
+        <p>Although methods for combining living and fossil taxa in the same trees seem very promising, they require a lot of data and are therefore likely to suffer from missing data issues, which may affect their ability to infer correct phylogenies.
+          Through a simulation approach, I am testing what is the actual effect of missing data on recovering accurate tree topology.
+        </p>
+        <p>The total evidence supermatrices I use contain both living and fossil species with both molecular (for living species only) and morphological data (for both living and fossil species).
+          In my simulations, I am generating random total evidence supermatrices and removing various amount of data from the morphological part.
+          I then infer the phylogeny from these matrices in a Maximum Likelihood and a Bayesian framework (with all the data and with various amount of missing data).
+          Finally I compare the topology of the tree inferred from the matrix with no missing data to the trees that are constructed from other matrices with varying amounts of missing data.
+        </p>
+        <p>I found that the Bayesian framework performs poorly in recovering the true tree topology (regardless of the amount of missing data) and that the Maximum Likelihood approach works far better as long as some of the same morphological characters are present in  the majority of taxa.</p>
+
+        <h3>
+          <a name="Building trees" class="anchor" href="#buildingtrees"><span class="octicon octicon-link"></span></a>Building trees
+        </h3>
+        <p>Primates, the taxonomic order to which we belong, are one of the most studied vertebrate groups.
+          There are vast quantities of molecular and morphological data available for extant species and the fossil record of this group is very well studied.
+          Primates are divided into two groups: Haplorrhini (Tarsiiformes, Simiiformes and Omomyiformes) and Strepsirrhini (Adapiformes, Lorisiformes and Lemuriformes).
+          Extant Strepsirrhini are less diverse than Haplorrhini in species richness (Strepsirrhini: ~70species – Haplorrhini: ~150species.);
+          biogeographical distribution (Strepsirrhini: South-East Asia, Africa and Madagascar – Haplorrhini: South-America, Africa, Asia - or the whole world if you include <i>Homo sapiens</i>!)
+          and body mass variance (Strepsirrhini: 100g-3.5kg – Haplorrhini: 125g-120kg).
+          However, if one includes the fossil Strepsirrhini, all of the patterns in these variables become closer to the patterns seen in Haplorrhini (~200species; Old World and northern Africa distribution; body mass ranging from 100g to 120kg).
+        </p>
+        <p>I am building a Strepsirrhini tree with 70 nuclear and mitochondrial genes for 70 living and 4 sub-fossil taxa and ~1000 morphological characters for 25 living and 46 fossil taxa using the total evidence method approach.</p>
+        
+        <h3>
+          <a name="Using trees" class="anchor" href="#usingtrees"><span class="octicon octicon-link"></span></a>Using trees
+        </h3>
+        <p>My aim is to use comparative methods approaches to discover the patterns of evolution of body mass in Strepsirrhini.
+          For example, I will compare body mass evolution in island vs. mainland groups such as present day Lemuriformes (Madagascar) and Lorisiformes (Africa and South-East Asia).
+        </p>
+        <p>I’m also interested in understanding Strepsirrhini history especially how the archaic group (Adapiformes) was replaced by the modern groups (Lemuriformes and Lorisiformes).
+          I’m using a morphospace through time approach to measure the overlap of Adapiformes vs. Lemuriformes/Lorisiformes in morphospace occupation and assess if the evidence for possible competitive replacement by niche overlapping.
+        </p>
+
+      -->
+      </section>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
