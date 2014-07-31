@@ -831,3 +831,56 @@ section #title .credits.right {
     display: none;
   }
 }
+
+
+/*Blog gallery*/
+
+  #gallery0 {
+  overflow: hidden;   /*encloses float children*/
+  }
+
+  * html #gallery0 {
+  overflow: hidden;
+  height: 1px;        /*sets hasLayout for IE<=6*/
+  }
+
+  #gallery0,
+  #gallery1,
+  #gallery2 {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  }
+
+  #gallery0 li,
+  #gallery1 li,
+  #gallery2 li {
+  margin: .5em .25em;
+  text-align: center;
+  display: -moz-inline-box;
+  display: inline-block;
+  vertical-align: top;
+  }
+
+  #gallery0 li {
+  display: block;
+  float: left;
+  width: 200px;
+  height: 200px;
+  }
+
+  #gallery2 li p,
+  #gallery2 li p {
+  margin: 1em 10px;
+  width: 125px;
+  }
+
+  li img {
+  display: block;
+  margin: 0 auto;
+  }
+
+
+
+
+
