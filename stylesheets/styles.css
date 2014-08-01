@@ -866,13 +866,14 @@ section #title .credits.right {
   display: block;
   float: left;
   width: 200px;
-  height: 200px;
+  height: 300px;
   }
 
   #gallery2 li p,
   #gallery2 li p {
-  margin: 1em 10px;
-  width: 125px;
+  display: block;
+  width: 175px;
+  height: 400px;
   }
 
   li img {
