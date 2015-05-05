@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2014.1.13)  21 FEB 2015 15:07
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2014.1.13)  5 MAY 2015 12:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -770,63 +770,58 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 LaTeX Font Info:    Font shape `EU1/Helvetica(0)/m/sl' in size <10> not availab
 le
 (Font)              Font shape `EU1/Helvetica(0)/m/it' tried instead on input l
-ine 114.
+ine 112.
 
 [1
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 125.
+(Font)              <12> on input line 132.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 125.
+(Font)              <8> on input line 132.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 125.
+(Font)              <6> on input line 132.
 
-Overfull \hbox (16.43533pt too wide) in paragraph at lines 125--140
+Overfull \hbox (16.43533pt too wide) in paragraph at lines 166--181
 [][] 
  []
 
 LaTeX Font Info:    Font shape `EU1/Helvetica(0)/m/sl' in size <12> not availab
 le
 (Font)              Font shape `EU1/Helvetica(0)/m/it' tried instead on input l
-ine 153.
+ine 194.
 
-Overfull \hbox (11.43533pt too wide) in paragraph at lines 151--190
-[][] 
- []
-
-
-Overfull \hbox (23.93533pt too wide) in paragraph at lines 196--227
+Overfull \hbox (11.43533pt too wide) in paragraph at lines 192--231
 [][] 
  []
 
 [2]
-Overfull \hbox (4.15994pt too wide) in paragraph at lines 270--285
+Overfull \hbox (23.93533pt too wide) in paragraph at lines 237--271
 [][] 
  []
 
 [3]
-Overfull \hbox (20.12088pt too wide) in paragraph at lines 294--300
+Overfull \hbox (23.63065pt too wide) in paragraph at lines 280--293
 [][] 
  []
 
 
-Overfull \hbox (11.61893pt too wide) in paragraph at lines 316--321
+Overfull \hbox (33.46268pt too wide) in paragraph at lines 302--309
 [][] 
  []
 
 
-Overfull \hbox (0.75069pt too wide) in paragraph at lines 322--327
+Overfull \hbox (8.28494pt too wide) in paragraph at lines 325--330
 [][] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 344.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 349.
 [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 344.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 349.
  (./KevinHealyCV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 344.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 344.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 344.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 349.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 349.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 349.
  ) 
 Here is how much of TeX's memory you used:
  21679 strings out of 493938
@@ -835,6 +830,6 @@ Here is how much of TeX's memory you used:
  24801 multiletter control sequences out of 15000+600000
  6997 words of font info for 43 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 46i,11n,48p,643b,338s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,10n,48p,588b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on KevinHealyCV.pdf (4 pages).
