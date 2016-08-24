@@ -540,12 +540,12 @@ body {
   font-weight: normal;
   background: #001449;
   background-attachment: fixed !important;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #A2C1C6), color-stop(100%, #A2C1C6));
-  background: -webkit-linear-gradient(#A2C1C6, #A2C1C6);
-  background: -moz-linear-gradient(#A2C1C6, #A2C1C6);
-  background: -o-linear-gradient(#A2C1C6, #A2C1C6);
-  background: -ms-linear-gradient(#A2C1C6, #A2C1C6);
-  background: linear-gradient(#A2C1C6, #A2C1C6);
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #EDEDF2), color-stop(100%, #EDEDF2));
+  background: -webkit-linear-gradient(#EDEDF2, #EDEDF2);
+  background: -moz-linear-gradient(#EDEDF2, #EDEDF2);
+  background: -o-linear-gradient(#EDEDF2, #EDEDF2);
+  background: -ms-linear-gradient(#EDEDF2, #EDEDF2);
+  background: linear-gradient(#EDEDF2, #EDEDF2);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -705,7 +705,7 @@ dt {
   height: 60px;
   width: 100%;
   position: fixed;
-  background: #A2C1C6;
+  background: #EDEDF2;
 
 }
 #header nav {
@@ -727,9 +727,9 @@ dt {
 }
 #header nav li a {
   color: black;
-  border: 1px solid #A2C1C6;
-  background: #A2C1C6;
-  background-color: #A2C1C6;
+  border: 1px solid #EDEDF2;
+  background: #EDEDF2;
+  background-color: #EDEDF2;
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
