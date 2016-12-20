@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.4)  4 DEC 2016 15:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.4)  4 JUL 2016 12:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**KevinHealyCV.tex
-(./KevinHealyCV.tex
+**KevinHealyCVmuseum.tex
+(./KevinHealyCVmuseum.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
@@ -205,8 +205,8 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidthlast=\dimen118
 \titlewidthfirst=\dimen119
 )
-(./KevinHealyCV.aux)
-\openout1 = `KevinHealyCV.aux'.
+(./KevinHealyCVmuseum.aux)
+\openout1 = `KevinHealyCVmuseum.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
@@ -275,9 +275,9 @@ LaTeX Info: Redefining \ref on input line 39.
 LaTeX Info: Redefining \pageref on input line 39.
 LaTeX Info: Redefining \nameref on input line 39.
 
-(./KevinHealyCV.out) (./KevinHealyCV.out)
+(./KevinHealyCVmuseum.out) (./KevinHealyCVmuseum.out)
 \@outlinefile=\write3
-\openout3 = `KevinHealyCV.out'.
+\openout3 = `KevinHealyCVmuseum.out'.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 62--67
@@ -333,75 +333,77 @@ Overfull \hbox (24.04247pt too wide) in paragraph at lines 161--174
  []
 
 
-Overfull \hbox (24.21129pt too wide) in paragraph at lines 184--192
+Overfull \hbox (24.21129pt too wide) in paragraph at lines 183--190
 [][] 
  []
 
 
-Overfull \hbox (26.88713pt too wide) in paragraph at lines 196--206
+Overfull \hbox (26.88713pt too wide) in paragraph at lines 194--204
 [][] 
  []
 
 
-Overfull \hbox (2.77994pt too wide) in paragraph at lines 208--214
+Overfull \hbox (2.77994pt too wide) in paragraph at lines 206--212
 [][] 
  []
 
 
-Overfull \hbox (6.58403pt too wide) in paragraph at lines 215--219
+Overfull \hbox (6.58403pt too wide) in paragraph at lines 213--217
+[][] 
+ []
+
+
+Overfull \hbox (25.11133pt too wide) in paragraph at lines 228--268
 [][] 
  []
 
 [2
 
 ]
-Overfull \hbox (46.54251pt too wide) in paragraph at lines 230--276
+Missing character: There is no Ã in font phvr7t!
+Missing character: There is no § in font phvr7t!
+
+Overfull \hbox (21.88321pt too wide) in paragraph at lines 289--319
 [][] 
  []
 
 [3]
-Missing character: There is no Ã in font phvr7t!
-Missing character: There is no § in font phvr7t!
-
-Overfull \hbox (21.88321pt too wide) in paragraph at lines 298--331
-[][] 
- []
-
-[4]
 Missing character: There is no â in font phvr7t!
 Missing character: There is no € in font phvr7t!
 Missing character: There is no ™ in font phvr7t!
-Missing character: There is no Ã in font phvr7t!
-Missing character: There is no ³ in font phvr7t!
- [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 454.
- [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 454.
- (./KevinHealyCV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 454.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 454.
-Package rerunfilecheck Info: File `KevinHealyCV.out' has not changed.
-(rerunfilecheck)             Checksum: BCA16ACFD95D1164A1D116C69E4613CB;447.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 454.
+ [4]
+Overfull \hbox (17.06816pt too wide) in paragraph at lines 419--427
+\OT1/phv/m/n/12 Email:[]natalie.cooper@nhm.ac.uk[] 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 435.
+[5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 435.
+ (./KevinHealyCVmuseum.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 435.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 435.
+Package rerunfilecheck Info: File `KevinHealyCVmuseum.out' has not changed.
+(rerunfilecheck)             Checksum: 5353FAA860D32AD4126F901E1AA91E67;492.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 435.
  ) 
 Here is how much of TeX's memory you used:
- 5283 strings out of 493089
- 78452 string characters out of 6134843
- 169931 words of memory out of 5000000
- 8730 multiletter control sequences out of 15000+600000
+ 5284 strings out of 493089
+ 78544 string characters out of 6134843
+ 173931 words of memory out of 5000000
+ 8731 multiletter control sequences out of 15000+600000
  17721 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,10n,43p,510b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,11n,43p,504b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texliv
 e/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015/
 texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2015/texmf-d
 ist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on KevinHealyCV.pdf (6 pages, 60334 bytes).
+Output written on KevinHealyCVmuseum.pdf (5 pages, 59538 bytes).
 PDF statistics:
- 112 PDF objects out of 1000 (max. 8388607)
- 98 compressed objects within 1 object stream
+ 113 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
  15 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
