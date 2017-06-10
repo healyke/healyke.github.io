@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.4)  20 DEC 2016 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.1.4)  30 MAR 2017 17:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -295,11 +295,11 @@ Missing character: There is no ù in font phvr7t!
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 85.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 105.
+(Font)              <12> on input line 107.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 105.
+(Font)              <8> on input line 107.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 105.
+(Font)              <6> on input line 107.
 Missing character: There is no ‚ in font phvr7t!
 Missing character: There is no Ä in font phvr7t!
 Missing character: There is no ú in font phvr7t!
@@ -307,55 +307,55 @@ Missing character: There is no ‚ in font phvr7t!
 Missing character: There is no Ä in font phvr7t!
 Missing character: There is no ù in font phvr7t!
 
-Overfull \hbox (15.73892pt too wide) in paragraph at lines 105--115
+Overfull \hbox (15.73892pt too wide) in paragraph at lines 107--117
 [][] 
  []
 
 [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 129.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 131.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsphv.fd
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 129.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 131.
 
-Overfull \hbox (18.9316pt too wide) in paragraph at lines 127--140
+Overfull \hbox (18.9316pt too wide) in paragraph at lines 129--142
 [][] 
  []
 
 
-Overfull \hbox (24.04247pt too wide) in paragraph at lines 161--174
+Overfull \hbox (24.04247pt too wide) in paragraph at lines 163--176
 [][] 
  []
 
 
-Overfull \hbox (24.21129pt too wide) in paragraph at lines 184--192
+Overfull \hbox (24.21129pt too wide) in paragraph at lines 186--194
 [][] 
  []
 
 
-Overfull \hbox (26.88713pt too wide) in paragraph at lines 196--206
+Overfull \hbox (26.88713pt too wide) in paragraph at lines 198--208
 [][] 
  []
 
 
-Overfull \hbox (2.77994pt too wide) in paragraph at lines 208--214
+Overfull \hbox (2.77994pt too wide) in paragraph at lines 210--216
 [][] 
  []
 
 
-Overfull \hbox (6.58403pt too wide) in paragraph at lines 215--219
+Overfull \hbox (6.58403pt too wide) in paragraph at lines 217--221
 [][] 
  []
 
 [2
 
 ]
-Overfull \hbox (104.34578pt too wide) in paragraph at lines 230--282
+Overfull \hbox (104.34578pt too wide) in paragraph at lines 232--287
 [][] 
  []
 
@@ -363,7 +363,7 @@ Overfull \hbox (104.34578pt too wide) in paragraph at lines 230--282
 Missing character: There is no √ in font phvr7t!
 Missing character: There is no ß in font phvr7t!
 
-Overfull \hbox (21.88321pt too wide) in paragraph at lines 304--337
+Overfull \hbox (21.88321pt too wide) in paragraph at lines 309--342
 [][] 
  []
 
@@ -374,15 +374,15 @@ Missing character: There is no ô in font phvr7t!
 Missing character: There is no √ in font phvr7t!
 Missing character: There is no ≥ in font phvr7t!
  [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 460.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 465.
  [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 460.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 465.
  (./KevinHealyCV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 460.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 460.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 465.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 465.
 Package rerunfilecheck Info: File `KevinHealyCV.out' has not changed.
 (rerunfilecheck)             Checksum: BCA16ACFD95D1164A1D116C69E4613CB;447.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 460.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 465.
  ) 
 Here is how much of TeX's memory you used:
  5283 strings out of 493089
@@ -398,7 +398,7 @@ xlive/2015/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texliv
 e/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2015/
 texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2015/texmf-d
 ist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on KevinHealyCV.pdf (6 pages, 60453 bytes).
+Output written on KevinHealyCV.pdf (6 pages, 60540 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  98 compressed objects within 1 object stream
