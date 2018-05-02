@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.10)  16 APR 2018 11:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.10)  1 MAY 2018 17:16
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **KevinHealyCV_UCD.tex
 (./KevinHealyCV_UCD.tex
@@ -344,107 +345,99 @@ LaTeX Info: Redefining \nameref on input line 54.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 69.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 70.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 80.
-Missing character: There is no ‚ in font phvr7t!
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 92.
 Missing character: There is no Ä in font phvr7t!
 Missing character: There is no ú in font phvr7t!
-Missing character: There is no ‚ in font phvr7t!
-Missing character: There is no Ä in font phvr7t!
-Missing character: There is no ù in font phvr7t!
-Missing character: There is no ‚ in font phvr7t!
-Missing character: There is no Ä in font phvr7t!
-Missing character: There is no ú in font phvr7t!
-Missing character: There is no ‚ in font phvr7t!
 Missing character: There is no Ä in font phvr7t!
 Missing character: There is no ù in font phvr7t!
 
-Overfull \hbox (0.53632pt too wide) in paragraph at lines 114--131
+Overfull \hbox (0.53632pt too wide) in paragraph at lines 121--137
 [][] 
  []
 
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 142.
 LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <12> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 142.
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 148.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <12> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 142.
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 148.
 [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 Missing character: There is no ‚ in font phvr7t!
 Missing character: There is no Ä in font phvr7t!
 Missing character: There is no ô in font phvr7t!
-Missing character: There is no √ in font phvr7t!
-Missing character: There is no ≥ in font phvr7t!
 
 [2]
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 204.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 207.
 
  (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsphv.fd
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 204.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 207.
 
-Overfull \hbox (0.18727pt too wide) in paragraph at lines 202--212
+Overfull \hbox (1.38766pt too wide) in paragraph at lines 205--216
 [][]  
  []
 
 
-Overfull \hbox (6.53584pt too wide) in paragraph at lines 214--226
+Overfull \hbox (17.1906pt too wide) in paragraph at lines 218--230
 [][]  
  []
 
 
-Overfull \hbox (0.75182pt too wide) in paragraph at lines 241--248
+Overfull \hbox (26.68248pt too wide) in paragraph at lines 235--241
+[]  
+ []
+
+
+Overfull \hbox (17.68321pt too wide) in paragraph at lines 243--252
+[]  
+ []
+
+
+Overfull \hbox (14.22748pt too wide) in paragraph at lines 255--264
 [][] 
  []
 
 
-Overfull \hbox (41.57526pt too wide) in paragraph at lines 249--253
+Overfull \hbox (3.2712pt too wide) in paragraph at lines 265--270
 [][]  
  []
 
-Missing character: There is no √ in font phvr7t!
-Missing character: There is no ° in font phvr7t!
+[3
 
-Overfull \hbox (7.49493pt too wide) in paragraph at lines 264--291
-[][]  
- []
-
-[3]
-Missing character: There is no √ in font phvr7t!
-Missing character: There is no ß in font phvr7t!
-
-Overfull \hbox (54.57101pt too wide) in paragraph at lines 293--316
+]
+Overfull \hbox (3.71568pt too wide) in paragraph at lines 311--338
 [][]  
  []
 
 
-Overfull \hbox (94.32639pt too wide) in paragraph at lines 324--342
+Overfull \hbox (15.81133pt too wide) in paragraph at lines 346--372
 [][]  
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 386.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 416.
 [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 386.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 416.
  (./KevinHealyCV_UCD.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 386.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 386.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 416.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 416.
 Package rerunfilecheck Info: File `KevinHealyCV_UCD.out' has not changed.
 (rerunfilecheck)             Checksum: 738E45683A5DF0BCAA17394E4DE61233;504.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 386.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 416.
  ) 
 Here is how much of TeX's memory you used:
- 6092 strings out of 492995
- 87964 string characters out of 6132704
- 286321 words of memory out of 5000000
- 9583 multiletter control sequences out of 15000+600000
+ 6094 strings out of 492995
+ 87980 string characters out of 6132704
+ 285321 words of memory out of 5000000
+ 9585 multiletter control sequences out of 15000+600000
  22266 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,10n,43p,654b,421s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,11n,43p,647b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texliv
@@ -452,10 +445,10 @@ e/2017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017/
 texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/local/texlive/2017/texmf-
 dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2017/texmf-dist/fo
 nts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on KevinHealyCV_UCD.pdf (4 pages, 65783 bytes).
+Output written on KevinHealyCV_UCD.pdf (4 pages, 67624 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
+ 111 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  14 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
